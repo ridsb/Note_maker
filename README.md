@@ -2,6 +2,8 @@
 
 A simple PHP-based web application for creating, updating, and deleting notes. This project uses MySQL for data storage and Bootstrap for styling. It's a great starting point for beginners looking to learn CRUD operations with PHP and MySQL.
 
+![image](https://github.com/ridsb/Note_maker/assets/108459805/1fe73e27-668c-4bcc-a067-3acb69015221)
+
 ## Features
 
 - Add new notes with a title and description
